@@ -2,6 +2,7 @@ package in.veera.dataJpa;
 
 import java.util.Arrays;
 
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
@@ -28,6 +29,9 @@ public class DBOperationRunner implements CommandLineRunner {
 				new Employee(1015, "Veera", 3899.5, "Development"))
 
 		);
+		
+		System.out.println("manjulavenkat222");
+		System.out.println("manjulavenkat333");
 
 	}
 }
