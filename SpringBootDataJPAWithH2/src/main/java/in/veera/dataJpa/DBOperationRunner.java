@@ -31,6 +31,7 @@ public class DBOperationRunner implements CommandLineRunner {
 		
 		System.out.println("manjulavenkat222");
 		System.out.println("manjulavenkat333");
+		System.out.println("manjulavenkat333");
 
 	}
 }
