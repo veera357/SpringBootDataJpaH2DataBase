@@ -28,6 +28,9 @@ public class DBOperationRunner implements CommandLineRunner {
 				new Employee(1009, "Thomas", 2799.25, "HR"), new Employee(1010, "Maria", 2899.5, "Development"))
 
 		);
+		
+		System.out.println("manjulavenkat222");
+		System.out.println("manjulavenkat333");
 
 	}
 }
