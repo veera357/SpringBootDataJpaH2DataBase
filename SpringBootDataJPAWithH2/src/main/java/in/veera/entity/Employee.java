@@ -19,18 +19,10 @@ public class Employee {
    private Double empSal;
    private String empDept;
    
-   public Employee() {
-		super();
-   }
    
    
-public Employee(Integer empId, String empName, Double empSal, String empDept) {
-	super();
-	this.empId = empId;
-	this.empName = empName;
-	this.empSal = empSal;
-	this.empDept = empDept;
-}
+   
+
 
 public Integer getEmpId() {
 	return empId;

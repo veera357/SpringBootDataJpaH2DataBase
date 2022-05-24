@@ -25,7 +25,8 @@ public class DBOperationRunner implements CommandLineRunner {
 				new Employee(1003, "Robert", 2699.5, "Testing"), new Employee(1004, "Victoria", 3000.5, "Development"),
 				new Employee(1005, "David", 2650.5, "QA"), new Employee(1006, "Isabel", 2590.0, "Support"),
 				new Employee(1007, "Michael", 3599.75, "Development"), new Employee(1008, "Maria", 2499.0, "Finance"),
-				new Employee(1009, "Thomas", 2799.25, "HR"), new Employee(1010, "Maria", 2899.5, "Development"))
+				new Employee(1009, "Thomas", 2799.25, "HR"), new Employee(1010, "Maria", 2899.5, "Development"),
+				new Employee(1015, "Veera", 3899.5, "Development"))
 
 		);
 		
